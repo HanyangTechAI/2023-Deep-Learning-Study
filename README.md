@@ -1,6 +1,7 @@
 # 2023-Deep-Learning-Study
 2023 HAI 딥러닝 스터디 진행과정을 기록하기 위한 레포지토리입니다.
 
+![image](https://user-images.githubusercontent.com/44901828/225137074-a8a7b27e-d352-4149-9e80-a7d9ca0b470a.png)
 **딥 러닝 스터디에 오신 여러분 환영합니다!**
 
 ### 개요
